@@ -1,0 +1,5 @@
+{
+  "name": "Neon Tetris",
+  "description": "A high-performance, neon-themed Tetris game with ghost pieces, persistent high scores, and increasing difficulty.",
+  "requestFramePermissions": []
+}
