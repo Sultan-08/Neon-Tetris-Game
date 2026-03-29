@@ -32,8 +32,8 @@ A modern **Neon-themed Tetris Game** built using **React.js**, featuring smooth 
 ## ⚙️ Installation & Setup
 
 1. Clone the repository  
-   - bash / CMD
-   `git clone https://github.com/your-username/neon-tetris-game.git`
+   - bash / CMD 
+   `git clone https://github.com/Sultan-08/Neon-Tetris-Game.git`
 2. Move to dir
    `cd neon-tetris-game`
 3. Install dependencies:
